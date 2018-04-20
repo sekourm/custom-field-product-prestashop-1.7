@@ -1,1 +1,1 @@
-# custom-field-product-prestashop-1.7
+Add custom field to prestashop product.
